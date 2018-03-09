@@ -733,14 +733,17 @@ media quires for mobile
 
 /*begin customized css, to change the template*/
 .faq-question {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 300;
+  text-transform: uppercase;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 .faq-answer {
   font-size: 16px;
   font-weight: 300;
   margin-left: 30px;
-  padding: 15px;
+  padding: 15px 30px;
 }
 
 /*end customized css*/
