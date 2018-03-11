@@ -52,11 +52,15 @@ hr {
 .section-title {
   padding-bottom: 32px;
 }
-.input-container {
+.input-container-styling {
   background-color: rgba(225,225,225,0.6);
   padding: 20px;
-  width: 100%;
+  /*width: 100%;*/
   color: black;
+  /*min-width: 90vw;*/
+  /*max-width: 500px !important;*/
+  margin: 30px;
+  text-align: center;
 }
 .medium-icon {
   font-size: 32px !important;
