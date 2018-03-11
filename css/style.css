@@ -12,18 +12,14 @@ body {
     font-weight: 400;
     position: relative;
   }
-
-
 html, body {
      width: 100%;
      overflow-x: hidden;
   }
-
 h1, h2, h3, h4 {
   font-weight: bold;
   letter-spacing: 2px;
 }
-
 .heading {
   font-size: 20px;
 }
@@ -35,34 +31,32 @@ h1, h2, h3, h4 {
 .bold {
   font-weight: bold;
 }
-
 p {
   line-height: 28px;
   font-size: 15px;
 }
-
 a {
   outline: none !important;
 }
-
 hr {
   width: 180px;
   border-color: #CCC;
 }
-
 .section-title strong {
 	color: #00C6D7;
   	font-size: 56px;
 }
-
 .section-title h1 {
 	font-size: 24px;
 }
-
 .section-title {
   padding-bottom: 32px;
 }
-
+.input-container {
+  background-color: rgba(225,225,225,0.7);
+  padding: 15px;
+  width: 100%;
+}
 .medium-icon {
   font-size: 32px !important;
 }
