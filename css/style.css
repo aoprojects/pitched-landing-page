@@ -42,6 +42,25 @@ hr {
   width: 180px;
   border-color: #CCC;
 }
+.input-checkbox-styling {
+  font-size: 18px;
+  font-weight: 300;
+  height: 10px;
+}
+.input-form-header {
+  font-size: 22px !important;
+  padding-bottom: 25px;
+}
+.input-min-height {
+  height: 25px;
+}
+.input-checkbox-styling input {
+  position: relative;
+  top: 23px;
+  left: -23px;
+  margin: 0;
+  padding: 0px;
+}
 .section-title strong {
 	color: #00C6D7;
   	font-size: 56px;
@@ -91,7 +110,10 @@ hr {
    padding-top: 100px;
   padding-bottom: 100px;
 }
-
+.text-input-styling input {
+  text-align: center;
+  font-weight: 300;
+}
 
 /* ==========================================================================
 preloader section
