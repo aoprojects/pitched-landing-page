@@ -43,9 +43,9 @@ hr {
   border-color: #CCC;
 }
 .input-checkbox-styling {
-  font-size: 18px;
-  font-weight: 300;
-  height: 10px;
+  /*font-size: 18px;*/
+  /*font-weight: 300;*/
+  /*height: 10px;*/
 }
 .input-form-header {
   font-size: 22px !important;
@@ -58,12 +58,12 @@ hr {
   position: relative;
   top: 23px;
   left: -23px;
-  margin: 0;
-  padding: 0px;
+  /*margin: 0;*/
+  /*padding: 0px;*/
 }
 .section-title strong {
 	color: #00C6D7;
-  	font-size: 56px;
+  font-size: 56px;
 }
 .section-title h1 {
 	font-size: 24px;
