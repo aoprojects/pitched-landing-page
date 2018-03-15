@@ -56,7 +56,7 @@ hr {
 }
 .input-checkbox-styling input {
   position: relative;
-  top: 16px;
+  /*top: 16px;*/
   left: -33px;
   /*margin: 0;*/
   /*padding: 0px;*/
