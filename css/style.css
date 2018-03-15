@@ -121,6 +121,11 @@ hr {
   opacity: 0.7;
   line-height: 2;
   color: black;
+  font-size: 16px;
+}
+.text-input-styling input::placeholder {
+  /*color: rgb(000,203,219);*/
+  color: black;
 }
 
 /* ==========================================================================
