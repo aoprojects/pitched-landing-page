@@ -49,7 +49,18 @@ hr {
 }
 .input-form-header {
   font-size: 22px !important;
-  padding-bottom: 25px;
+  padding-bottom: 20px;
+}
+@media only screen and (max-width: 449px) {
+  .input-form-header {
+    min-width: 80vw;
+    position: relative;
+  }
+}
+@media only screen and (min-width: 450px) {
+  .input-form-header {
+      min-width: 400px;
+  }
 }
 .input-min-height {
   height: 25px;
