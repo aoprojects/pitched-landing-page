@@ -69,7 +69,7 @@
   left: -10px;
   width: 2rem;
   height: 1.9rem;
-  background: rgba(000,203,219,0.7);
+  background: rgba(000,203,219,0.4);
   cursor: pointer;
 }
 /*we are not using the button round styling for anything, but it was used for a social icon in the demo*/
