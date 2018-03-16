@@ -120,6 +120,11 @@ hr {
     height: 215px;
   }
 }
+@media only screen and (min-width: 768px) {
+  .why-section-col-min-height {
+    min-height: 390px;
+  }
+}
 #why,#faq, #team, 
 #portfolio, #pricing, #contact {
   padding-top: 100px;
