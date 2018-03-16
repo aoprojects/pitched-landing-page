@@ -93,6 +93,9 @@ hr {
   text-align: center;
   margin: 0 auto;
 }
+.light-blue {
+    color: rgba(000,203,219,1.0);
+}
 .medium-icon {
   font-size: 32px !important;
 }
@@ -787,8 +790,9 @@ media quires for mobile
 .faq-answer {
   font-size: 16px;
   font-weight: 300;
-  margin-left: 30px;
+  margin-left: 50px;
   padding: 15px 30px;
+  color: #c9c9c9;
 }
 
 /*end customized css*/
